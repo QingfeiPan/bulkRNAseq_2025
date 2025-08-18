@@ -1,5 +1,6 @@
 ---
 title: Alignment-free quantification by Salmon
+layout: default
 nav_order: 2
 ---
 
