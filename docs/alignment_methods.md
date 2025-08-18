@@ -1,5 +1,6 @@
 ---
 title: Alignment-based methods
+layout: default
 nav_order: 3
 ---
 
