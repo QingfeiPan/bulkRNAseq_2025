@@ -2,6 +2,7 @@
 title: Overview
 layout: default
 nav_order: 1
+permalink: /docs/index
 ---
 
 Bulk RNA sequencing (RNA-Seq) is a highly sensitive and accurate tool for meansuring expression across the transcriptome. In addition to the transcriptome quantification, RNA-Seq also allows researchers to detect new splicing junctions (e.g. TOPHAP/TOPHAP2-regtools), novel transcripts (e.g. Cufflinks), gene fusion (e.g. STAR-Fusion, Arriba), single nucleotide variants (e.g. STAR-GATK), and other features. **<u>This pipeline is for transcriptome quantification purpose only</u>.**

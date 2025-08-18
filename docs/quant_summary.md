@@ -1,3 +1,11 @@
+---
+title: Quantification summary
+layout: default
+nav_order: 5
+permalink: /docs/quant_summary
+---
+
+
 ## Quantification Summary
 
 For each single sample, we will generate a QC report from the quantification results by Salmon and RSEM. There are five QC metrics in each report:

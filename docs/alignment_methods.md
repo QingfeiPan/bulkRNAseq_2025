@@ -2,6 +2,7 @@
 title: Alignment-based methods
 layout: default
 nav_order: 3
+permalink: /docs/alignment_methods
 ---
 
 RSEM (RNA-Seq by Expectation Maximization) is an accurate and user-friendly software tool for quantifying transcript and gene abundances from RNA-seq data. Here is the detailed introduction of RSEM: https://github.com/bli25/RSEM_tutorial.

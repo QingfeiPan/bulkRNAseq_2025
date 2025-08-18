@@ -1,3 +1,10 @@
+---
+title: Best practive
+layout: default
+nav_order: 6
+permalink: /docs/best_practice
+---
+
 The step-by-step tutorial shown above is set to get you familiar with this pipeline. In practice, it could be tedious to run this pipeline in a step-by-step manor, especially in the cases with multiple samples. For the best practice, we designed **a sample table-centered strategy** to run this pipeline.
 
 ### 1. Sample Table
